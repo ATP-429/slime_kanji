@@ -1,0 +1,5 @@
+析
+-- analyze 「セキ」
+Cut the tree down with an axe to analyze its age by counting the rings.
+
+

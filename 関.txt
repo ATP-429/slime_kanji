@@ -1,0 +1,5 @@
+関
+-- barrier 「カン」
+The gate is barred and held shut with crossed chains.  It can't be opened, so it's a barrier.
+
+

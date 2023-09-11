@@ -1,0 +1,5 @@
+概
+-- generality 「ガイ」
+Right is "already," left is a tree.  "Tree" is an example of a general concept.  There are many types of trees, that can be very different, but it is okay to just say "tree" when that is already enough information.  Already enough when you have said "tree" without specifying: that is a generality.
+
+

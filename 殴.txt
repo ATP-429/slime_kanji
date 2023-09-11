@@ -1,0 +1,5 @@
+殴
+-- attack 「オウ」
+Take a knife and attack.  Ouch!  Right in the X!
+
+

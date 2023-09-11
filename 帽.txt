@@ -1,0 +1,5 @@
+帽
+-- hat 「ボウ」
+A cloth object made by a tailor to protect your eye from the sun: a hat.
+
+

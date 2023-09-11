@@ -1,0 +1,5 @@
+仲
+-- relationship 「チュウ」
+Person (left) with middle (right) = the feelings between people.
+
+

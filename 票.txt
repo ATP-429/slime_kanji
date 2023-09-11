@@ -1,0 +1,5 @@
+票
+-- vote 「ヒョウ」
+A ballot box on an altar-like platform.
+
+

@@ -1,0 +1,5 @@
+床
+-- bed 「ショウ」
+A wooden bed in a tent.
+
+

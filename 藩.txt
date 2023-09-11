@@ -1,0 +1,5 @@
+藩
+-- fief 「ハン」
+A feudal territory held by one clan.  Rather than "turn", the paddy and grinding of rice.  All water and wild plant resources, farms, and mills within the fief were regulated and taxed by the clan.
+
+

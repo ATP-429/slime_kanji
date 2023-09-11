@@ -1,0 +1,5 @@
+近
+-- near 「キン」
+You're near your destination now.  Cut your going short with an axe, or you'll miss it.
+
+

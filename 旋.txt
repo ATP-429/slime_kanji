@@ -1,0 +1,5 @@
+旋
+-- rotate 「セン」
+The proper (lower right) way to pick a random direction (left) to go is for a person (upper right) to close their eyes and rotate.
+
+

@@ -1,0 +1,5 @@
+碁
+-- igo 「ゴ」
+This is the game of Igo (also known as Go).  You play it by placing stones on a towering heavy duty board.
+
+

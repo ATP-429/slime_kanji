@@ -1,0 +1,5 @@
+峠
+-- mountain-pass 「トウゲ」
+Go up and down over the mountain through a mountain pass.
+
+

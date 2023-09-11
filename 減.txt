@@ -1,0 +1,5 @@
+減
+-- decrease 「ゲン」
+Water is governed by the rule that its level is cut down to the minimum: it always tries to decrease its level.
+
+

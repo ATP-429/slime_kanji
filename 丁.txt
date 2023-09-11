@@ -1,0 +1,5 @@
+丁
+-- signpost 「チョウ」
+A simple drawing of a signpost.
+
+

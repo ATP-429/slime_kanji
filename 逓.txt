@@ -1,0 +1,5 @@
+逓
+-- relay 「テイ」
+Like an axe, but with something wrapped around the handle: a message baton, that can be passed from runner to runner as it goes along.
+
+

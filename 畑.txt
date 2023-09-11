@@ -1,0 +1,5 @@
+畑
+-- farm 「ハタ」
+To start a farm, you burn an area of land to clear space for a paddy to plant your crops in.
+
+

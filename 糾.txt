@@ -1,0 +1,5 @@
+糾
+-- twist 「キュウ」
+Twist four threads to make string.
+
+

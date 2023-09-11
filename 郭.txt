@@ -1,0 +1,5 @@
+郭
+-- enclosure 「カク」
+Build city walls to get an enclosure.
+
+

@@ -1,0 +1,5 @@
+答
+-- solution 「トウ」
+A bamboo puzzle.  Can you join the pieces together and find the solution?
+
+

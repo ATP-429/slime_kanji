@@ -1,0 +1,5 @@
+貸
+-- lend 「タイ」
+Give someone money to use as substitute for his own.
+
+

@@ -1,0 +1,5 @@
+靴
+-- shoe 「カ」
+Change your feet with leather.
+
+

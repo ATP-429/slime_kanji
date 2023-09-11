@@ -1,0 +1,5 @@
+糧
+-- provisions 「リョウ」
+The amount of rice.
+
+

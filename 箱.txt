@@ -1,0 +1,5 @@
+箱
+-- box 「ハコ」
+Join pieces of bamboo together to make a box.
+
+

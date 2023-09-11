@@ -1,0 +1,5 @@
+引
+-- pull 「イン」
+You pull the string of a bow to use it.
+
+

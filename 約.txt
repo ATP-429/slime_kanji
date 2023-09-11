@@ -1,0 +1,5 @@
+約
+-- promise 「ヤク」
+Promises are questionable.  Will the thread hold?  Does the ladle hold water?
+
+

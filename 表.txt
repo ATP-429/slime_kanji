@@ -1,0 +1,5 @@
+表
+-- list 「ヒョウ」
+Clothing (bottom) prices are recorded in a two-column (top) list.
+
+

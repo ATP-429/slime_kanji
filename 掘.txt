@@ -1,0 +1,5 @@
+掘
+-- dig 「クツ」
+The dirt is pliant to your hands.  It is easy to dig.
+
+

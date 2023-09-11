@@ -1,0 +1,5 @@
+推
+-- infer 「スイ」
+By the chirping sound, you can easily infer that there's an bird in that hand.
+
+

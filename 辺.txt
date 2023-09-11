@@ -1,0 +1,5 @@
+辺
+-- boundary 「ヘン」
+Your ability to moves further is cut cleanly off, like a knife cut, at a boundary.
+
+

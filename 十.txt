@@ -1,0 +1,5 @@
+十
+-- ten 「ジュウ」
+A one with a vertical cross to indicate that it is moved to a higher decimal position, making ten.
+
+

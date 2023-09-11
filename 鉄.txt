@@ -1,0 +1,5 @@
+鉄
+-- iron 「テツ」
+A metal used in armor, to make arrows fired at you miss anything important.
+
+

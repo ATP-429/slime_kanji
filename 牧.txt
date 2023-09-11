@@ -1,0 +1,5 @@
+牧
+-- pasture 「ボク」
+Chase the cow out to pasture and back with a stick in hand.
+
+

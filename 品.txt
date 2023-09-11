@@ -1,0 +1,5 @@
+品
+-- goods 「ヒン」
+Boxes piled up to show goods.
+
+

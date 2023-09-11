@@ -1,0 +1,6 @@
+枝
+-- tree-branch 「シ」
+Wood is added to "branch" to make it clear that it's a real piece of wood from a tree.
+A literal branch.
+
+

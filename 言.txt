@@ -1,0 +1,5 @@
+言
+-- say 「ゲン」
+A mouth saying lines (imagine a speech bubble around the top half).
+
+

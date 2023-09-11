@@ -1,0 +1,5 @@
+蓄
+-- stock 「チク」
+Stock up on grass (hay) for the livestock, if you want them to get through the winter.
+
+

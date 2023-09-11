@@ -1,0 +1,5 @@
+町
+-- block 「チョウ」
+The city is divided up into pieces like rice paddies, but each block has signposts at the corners for the street names.
+
+

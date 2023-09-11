@@ -1,0 +1,5 @@
+閥
+-- clique 「バツ」
+This clique guards its territory jealously: if you aren't with them, you will be cut down as you try to pass the gate!
+
+

@@ -1,0 +1,5 @@
+疫
+-- plague 「エキ」
+Disease (frame) that cuts like a knife.
+
+

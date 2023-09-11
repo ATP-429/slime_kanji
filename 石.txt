@@ -1,0 +1,6 @@
+石
+-- stone 「セキ」
+A small stone lies at the base of a hill.
+Notice that the lines of the hill don't cross.
+
+

@@ -1,0 +1,5 @@
+択
+-- choose 「タク」
+Measure by feet or handwidths?  Choose one.
+
+

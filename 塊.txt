@@ -1,0 +1,5 @@
+塊
+-- clump 「カイ」
+Tiny ogres hold a clump of dirt together.
+
+

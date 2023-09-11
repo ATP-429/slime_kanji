@@ -1,0 +1,6 @@
+央
+-- center 「オウ」
+Originally, a circle with several lines pointing to its center.
+Implies the exact center, a point rather than the region of "middle".
+
+

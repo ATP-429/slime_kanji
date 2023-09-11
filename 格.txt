@@ -1,0 +1,5 @@
+格
+-- status 「カク」
+Each tree has a different height, as each person has a different status.
+
+

@@ -1,0 +1,7 @@
+店
+-- shop 「テン」
+The magic shop is a simple tent with a fortune-telling witch working the counter.
+"Shop" meaning a place to buy things.
+Did we save up enough for ICE2 yet?
+
+

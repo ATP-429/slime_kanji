@@ -1,0 +1,5 @@
+薫
+-- scent 「クン」
+To make incense, pick the heavy plants.  When they burn, they emit a pleasant scent.
+
+

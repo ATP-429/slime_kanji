@@ -1,0 +1,5 @@
+橋
+-- bridge 「キョウ」
+To build a bridge, first you fire an arrow across the gap with a line attached (shown in cross-section), then you use that to pull a much thicker rope (shown below), and finally build it up solidly with wood.
+
+

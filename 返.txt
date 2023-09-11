@@ -1,0 +1,5 @@
+返
+-- return 「ヘン」
+A long step opposing your previous motion returns you to where you started.
+
+

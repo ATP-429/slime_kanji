@@ -1,0 +1,5 @@
+炉
+-- furnace 「ロ」
+Fire behind a door.
+
+

@@ -1,0 +1,5 @@
+算
+-- abacus 「サン」
+Bamboo tiles on a pair of strings, so you can slide them back and forth to keep count.
+
+

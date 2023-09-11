@@ -1,0 +1,5 @@
+庫
+-- garage 「コ」
+A tent to park your chariot in is a garage.
+
+

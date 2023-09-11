@@ -1,0 +1,5 @@
+溝
+-- ditch 「コウ」
+A structure for water.
+
+

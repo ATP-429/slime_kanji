@@ -1,0 +1,5 @@
+区
+-- district 「ク」
+The district is on the edge of the province, so it only needs three marked borders to be added to the map.
+
+

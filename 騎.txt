@@ -1,0 +1,5 @@
+騎
+-- ride-horse 「キ」
+That horse looks strange.  Oh, someone is riding it!
+
+

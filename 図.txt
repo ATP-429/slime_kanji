@@ -1,0 +1,6 @@
+図
+-- map 「ズ」
+X marks the spot on this treasure map, and ticks mark off the number of paces.
+Arrr!
+
+

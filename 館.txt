@@ -1,0 +1,5 @@
+館
+-- building 「カン」
+A building is either a home where you eat food, or a workplace where you have to deal with bureaucrats.
+
+

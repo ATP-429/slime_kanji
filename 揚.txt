@@ -1,0 +1,5 @@
+揚
+-- hoist 「ヨウ」
+Hoisting is what hands do best.  It's easy for hands to hoist.
+
+

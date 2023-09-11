@@ -1,0 +1,6 @@
+作
+-- make 「サク」
+On the right side is scaffolding.  A person climbs on scaffolding to make a building.
+Alternatively, scaffolding is quick and easy for a person to make.
+
+

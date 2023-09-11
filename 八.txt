@@ -1,0 +1,5 @@
+八
+-- eight 「ハチ」
+A halved line for the digit which can be halved most (8/2/2/2=1).
+
+

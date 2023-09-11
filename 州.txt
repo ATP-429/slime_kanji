@@ -1,0 +1,5 @@
+州
+-- province 「シュウ」
+A map with the provincial borders and their capitals.
+
+

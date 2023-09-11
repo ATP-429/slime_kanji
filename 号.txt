@@ -1,0 +1,6 @@
+号
+-- identifier 「ゴウ」
+Say "five"!  Call something by a number rather than a name.
+"Number" as in "#X of a sequence"
+
+

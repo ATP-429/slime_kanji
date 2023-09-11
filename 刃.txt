@@ -1,0 +1,5 @@
+刃
+-- edge 「ジン」
+A knife with the non-edge side crossed out.
+
+

@@ -1,0 +1,5 @@
+飢
+-- hunger 「キ」
+Look for food, but you see only the table.
+
+

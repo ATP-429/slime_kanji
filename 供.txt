@@ -1,0 +1,5 @@
+供
+-- offer 「キョウ」
+Person + all = everyone.  Everyone has something to offer.
+
+

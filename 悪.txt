@@ -1,0 +1,5 @@
+悪
+-- bad 「アク」
+defective heart = bad
+
+

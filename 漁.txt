@@ -1,0 +1,5 @@
+漁
+-- fishing 「ギョ」
+Pulling fish from the water.
+
+

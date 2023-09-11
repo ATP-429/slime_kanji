@@ -1,0 +1,5 @@
+弾
+-- bullet 「ダン」
+Some kinds of bows and bow-like weapons (slingshots) use a simpler, single-pieced missile than an arrow: a bullet.
+
+

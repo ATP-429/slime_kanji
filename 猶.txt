@@ -1,0 +1,5 @@
+猶
+-- delay 「ユウ」
+"Let's get your pet chameleon drunk!"  "Um... let's think about that a bit longer."  Delay.
+
+

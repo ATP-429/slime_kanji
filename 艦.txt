@@ -1,0 +1,5 @@
+艦
+-- warship 「カン」
+A ship overseeing the coast, a vigilant warship.
+
+

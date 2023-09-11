@@ -1,0 +1,5 @@
+嘱
+-- charge 「ショク」
+Tell someone to do something, then the task belongs to them.  You charge them with the task.
+
+

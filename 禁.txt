@@ -1,0 +1,5 @@
+禁
+-- forbid 「キン」
+It is forbidden to go into the holy woods.  You'll be sacrificed on the altar if you do.
+
+

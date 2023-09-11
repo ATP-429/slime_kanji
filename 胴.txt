@@ -1,0 +1,5 @@
+胴
+-- torso 「ドウ」
+Some meat-bearing creatures, such as fish and snakes, lack limbs, but they are all alike in having a torso.
+
+

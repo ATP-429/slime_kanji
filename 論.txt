@@ -1,0 +1,5 @@
+論
+-- argument 「ロン」
+Arguments often have no meaningful content, they're just an empty structure of saying things.
+
+

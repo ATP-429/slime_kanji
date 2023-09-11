@@ -1,0 +1,5 @@
+歩
+-- walk 「ホ」
+Move your foot a few times, and you're walking!
+
+

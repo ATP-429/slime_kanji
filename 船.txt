@@ -1,0 +1,5 @@
+船
+-- ship 「セン」
+A boat (left) big enough for at least eight mouths (right) is a ship.
+
+

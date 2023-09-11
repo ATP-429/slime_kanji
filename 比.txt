@@ -1,0 +1,5 @@
+比
+-- compare 「ヒ」
+Left and right look similar, but compare them: they are not the same.
+
+

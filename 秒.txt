@@ -1,0 +1,6 @@
+秒
+-- second 「ビョウ」
+In an hourglass filled with rice, a few grains slip by every second.
+The unit of time.
+
+

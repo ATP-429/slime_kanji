@@ -1,0 +1,5 @@
+軍
+-- army 「グン」
+This chariot has a shield built over one wheel, indicating an armored vehicle for the army.
+
+

@@ -1,0 +1,5 @@
+匹
+-- crude 「ヒツ」
+If you use a crude approximation of pi, the circle doesn't go all the way around.
+
+

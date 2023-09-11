@@ -1,0 +1,5 @@
+迫
+-- press 「ハク」
+Two types of press: if you press on skin, it turns white, if something is pressing you must move quickly.
+
+

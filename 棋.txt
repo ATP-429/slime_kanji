@@ -1,0 +1,5 @@
+棋
+-- chess 「キ」
+A wooden frame for a fancy chess board.
+
+

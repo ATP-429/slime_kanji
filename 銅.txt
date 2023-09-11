@@ -1,0 +1,5 @@
+銅
+-- copper 「ドウ」
+Copper looks the same as gold.
+
+

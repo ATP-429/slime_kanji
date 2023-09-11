@@ -1,0 +1,5 @@
+剤
+-- medicine 「ザイ」
+Medicine needs to be carefully measured.  Use blades to cut it up into like portions.
+
+

@@ -1,0 +1,5 @@
+速
+-- quick 「ソク」
+Go around the bundle.  Leave it there to move quick.
+
+

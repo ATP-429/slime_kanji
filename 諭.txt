@@ -1,0 +1,5 @@
+諭
+-- instruct 「ユ」
+The right side is a butcher's shop with meat and knives, a dangerous place to work.  Tell the new worker carefully how to cut the meat without cutting himself: instruct.
+
+

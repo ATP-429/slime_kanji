@@ -1,0 +1,6 @@
+車
+-- wheel 「シャ」
+It's a top-view of a chariot, with a wheel at the top and a wheel at the bottom.
+Also means any wheeled vehicle.
+
+

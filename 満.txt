@@ -1,0 +1,5 @@
+満
+-- full 「マン」
+Livestock need both water and grass to eat and drink until they are full and healthy.
+
+

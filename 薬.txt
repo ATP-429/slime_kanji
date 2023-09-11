@@ -1,0 +1,5 @@
+薬
+-- drug 「ヤク」
+A pleasant plant which puts you at ease is a medicinal drug.
+
+

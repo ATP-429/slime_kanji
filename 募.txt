@@ -1,0 +1,5 @@
+募
+-- enlist 「ボ」
+"Not" "power": you do not have a powerful army, so you must enlist recruits!
+
+

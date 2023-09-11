@@ -1,0 +1,5 @@
+凸
+-- convex 「トツ」
+A simple picture of something sticking out, thus being convex.
+
+

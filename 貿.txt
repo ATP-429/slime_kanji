@@ -1,0 +1,5 @@
+貿
+-- trade 「ボウ」
+Money can be traded for all sorts of goods, including knives and whatever that other thing's supposed to be.
+
+

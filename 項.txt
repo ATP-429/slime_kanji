@@ -1,0 +1,5 @@
+項
+-- heading 「コウ」
+Take a ruler and draw a line at the head of the section to write a heading.
+
+

@@ -1,0 +1,5 @@
+繰
+-- spool 「クル」
+Turn thread into goods by spooling it onto pieces of wood.
+
+

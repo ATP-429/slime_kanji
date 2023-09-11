@@ -1,0 +1,5 @@
+匁
+-- coin-weight 「モンメ」
+This means the small coin called a "monme" or the weight of that coin.  Compared to "edge" the line goes through the whole blade, so break off the tip of a knife, and that piece is the weight of a coin.
+
+

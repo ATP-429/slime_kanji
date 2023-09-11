@@ -1,0 +1,5 @@
+挙
+-- action 「キョ」
+Motion lines around a hand show that it's in action.
+
+

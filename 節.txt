@@ -1,0 +1,6 @@
+節
+-- node 「セツ」
+Bamboo is made of segments joined at nodes.  An instant is a node in time.
+This can mean many things "node" doesn't quite mean: a joint, a section, a clause, a point in time, etc.
+
+

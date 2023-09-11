@@ -1,0 +1,5 @@
+銑
+-- pig-iron 「セン」
+Pig iron is unrefined, crude iron, one process improved from ore.  Use this cheap metal for arrowheads, and you won't miss them too badly when they're lost.
+
+

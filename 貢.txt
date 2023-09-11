@@ -1,0 +1,5 @@
+貢
+-- levy 「コウ」
+Money demanded from craftsmen for plying their craft.  A levy on manufacture.
+
+
